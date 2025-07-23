@@ -1,3 +1,4 @@
+package app.gui;
 import app.AppException;
 import app.checkin.CheckInRoomForm;
 import app.checkout.CheckOutRoomForm;
